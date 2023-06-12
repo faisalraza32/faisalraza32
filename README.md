@@ -3,7 +3,7 @@
 <a href="https://github.com/faisalraza32">
   <img src="https://github-readme-stats.vercel.app/api?username=faisalraza32&show_icons=true" />
 </a>
-
+<br />
 <a href="https://github.com/faisalraza32">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalraza32&layout=donut-vertical" />
 </a>
