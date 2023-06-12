@@ -1,12 +1,11 @@
 ### Hi there 👋 Welcome
 
 <a href="https://github.com/faisalraza32">
-  <img src="https://github-readme-stats.vercel.app/api?username=faisalraza32&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faisalraza32&show_icons=true" />
 </a>
 
-
 <a href="https://github.com/faisalraza32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalraza32&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalraza32&layout=donut-vertical" />
 </a>
 
 ### 👨‍💻 Languages and Tools
